@@ -1,0 +1,1303 @@
+[
+  {
+    "title": "Indian Independence Day",
+    "year": 1947,
+    "date": "15 August 1947",
+    "description": "India gained independence from British rule after nearly 200 years of colonial domination.",
+    "wiki": "Indian_independence",
+    "category": "History"
+  },
+  {
+    "title": "Republic Day of India",
+    "year": 1950,
+    "date": "26 January 1950",
+    "description": "The Constitution of India came into effect, making India a republic.",
+    "wiki": "Republic_Day_(India)",
+    "category": "History"
+  },
+  {
+    "title": "India-Pakistan Partition",
+    "year": 1947,
+    "date": "14 August 1947",
+    "description": "Partition of British India into India and Pakistan, leading to one of the largest mass migrations in history.",
+    "wiki": "Partition_of_India",
+    "category": "History"
+  },
+  {
+    "title": "Green Revolution in India",
+    "year": 1965,
+    "description": "Introduction of high-yield crop varieties and modern farming techniques, leading India to become food self-sufficient.",
+    "wiki": "Green_Revolution_in_India",
+    "category": "Economy"
+  },
+  {
+    "title": "Emergency in India",
+    "year": 1975,
+    "date": "25 June 1975",
+    "description": "Prime Minister Indira Gandhi declared a state of emergency, suspending civil liberties and elections for 21 months.",
+    "wiki": "Indian_Emergency",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Economic Liberalization of India",
+    "year": 1991,
+    "date": "24 July 1991",
+    "description": "India liberalized its economy under Manmohan Singh, opening up global trade and privatization.",
+    "wiki": "1991_Indian_economic_crisis",
+    "category": "Economy"
+  },
+  {
+    "title": "Pokhran-II Nuclear Tests",
+    "year": 1998,
+    "date": "11 May 1998",
+    "description": "India conducted a series of nuclear tests at Pokhran, establishing itself as a nuclear power.",
+    "wiki": "Pokhran-II",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Chandrayaan-1 Mission",
+    "year": 2008,
+    "description": "India's first lunar probe discovered water molecules on the Moon.",
+    "wiki": "Chandrayaan-1",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Mars Orbiter Mission (Mangalyaan)",
+    "year": 2013,
+    "description": "India's ISRO successfully launched Mangalyaan, becoming the first Asian nation to reach Mars orbit.",
+    "wiki": "Mars_Orbiter_Mission",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Chandrayaan-3 Soft Landing",
+    "year": 2023,
+    "date": "23 August 2023",
+    "description": "India became the first country to land a spacecraft on the lunar south pole.",
+    "wiki": "Chandrayaan-3",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "World War I Begins",
+    "year": 1914,
+    "date": "28 July 1914",
+    "description": "World War I started after the assassination of Archduke Franz Ferdinand.",
+    "wiki": "World_War_I",
+    "category": "War & Politics"
+  },
+  {
+    "title": "World War II Ends",
+    "year": 1945,
+    "date": "2 September 1945",
+    "description": "World War II ended with Japan's surrender after the atomic bombings.",
+    "wiki": "End_of_World_War_II",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Formation of United Nations",
+    "year": 1945,
+    "date": "24 October 1945",
+    "description": "The United Nations was founded to promote peace and international cooperation.",
+    "wiki": "United_Nations",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Cold War Begins",
+    "year": 1947,
+    "description": "The geopolitical rivalry between the United States and Soviet Union began after WWII.",
+    "wiki": "Cold_War",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Cuban Missile Crisis",
+    "year": 1962,
+    "description": "The U.S. and USSR came close to nuclear war over Soviet missiles in Cuba.",
+    "wiki": "Cuban_Missile_Crisis",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Fall of Berlin Wall",
+    "year": 1989,
+    "date": "9 November 1989",
+    "description": "The Berlin Wall fell, ending decades of separation between East and West Germany.",
+    "wiki": "Fall_of_the_Berlin_Wall",
+    "category": "War & Politics"
+  },
+  {
+    "title": "9/11 Terrorist Attacks",
+    "year": 2001,
+    "date": "11 September 2001",
+    "description": "Coordinated terrorist attacks by al-Qaeda destroyed the World Trade Center in New York.",
+    "wiki": "September_11_attacks",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Apollo 11 Moon Landing",
+    "year": 1969,
+    "date": "20 July 1969",
+    "description": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon.",
+    "wiki": "Apollo_11",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Invention of the Internet",
+    "year": 1969,
+    "description": "ARPANET, the precursor to the modern internet, was created in the U.S.",
+    "wiki": "ARPANET",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "World Wide Web Launch",
+    "year": 1991,
+    "description": "Tim Berners-Lee launched the World Wide Web, revolutionizing communication.",
+    "wiki": "World_Wide_Web",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "COVID-19 Declared Pandemic",
+    "year": 2020,
+    "date": "11 March 2020",
+    "description": "The World Health Organization declared COVID-19 a global pandemic.",
+    "wiki": "COVID-19_pandemic",
+    "category": "Health"
+  },
+  {
+    "title": "First COVID-19 Vaccine Rollout",
+    "year": 2020,
+    "description": "Pfizer-BioNTech vaccine received emergency approval, starting global vaccination.",
+    "wiki": "COVID-19_vaccine",
+    "category": "Health"
+  },
+  {
+    "title": "Cricket World Cup 1983",
+    "year": 1983,
+    "description": "India won its first ICC Cricket World Cup under Kapil Dev, defeating West Indies.",
+    "wiki": "1983_Cricket_World_Cup",
+    "category": "Sports"
+  },
+  {
+    "title": "Cricket World Cup 2011",
+    "year": 2011,
+    "description": "India won the ICC Cricket World Cup under MS Dhoni, defeating Sri Lanka.",
+    "wiki": "2011_Cricket_World_Cup",
+    "category": "Sports"
+  },
+  {
+    "title": "T20 World Cup 2007",
+    "year": 2007,
+    "description": "India won the inaugural ICC T20 World Cup, defeating Pakistan in the final.",
+    "wiki": "2007_ICC_World_Twenty20",
+    "category": "Sports"
+  },
+  {
+    "title": "Olympic Gold - Abhinav Bindra",
+    "year": 2008,
+    "description": "Abhinav Bindra won India’s first individual Olympic gold in shooting.",
+    "wiki": "Abhinav_Bindra",
+    "category": "Sports"
+  },
+  {
+    "title": "Olympic Gold - Neeraj Chopra",
+    "year": 2021,
+    "description": "Neeraj Chopra won gold in javelin throw at Tokyo Olympics, India’s first in athletics.",
+    "wiki": "Neeraj_Chopra",
+    "category": "Sports"
+  },
+  {
+    "title": "FIFA World Cup 2014",
+    "year": 2014,
+    "description": "Germany defeated Argentina 1–0 to win the FIFA World Cup in Brazil.",
+    "wiki": "2014_FIFA_World_Cup",
+    "category": "Sports"
+  },
+  {
+    "title": "FIFA World Cup 2022",
+    "year": 2022,
+    "description": "Argentina, led by Lionel Messi, won the FIFA World Cup in Qatar.",
+    "wiki": "2022_FIFA_World_Cup",
+    "category": "Sports"
+  },
+  {
+    "title": "Indian Premier League Launch",
+    "year": 2008,
+    "description": "The IPL T20 cricket tournament began, revolutionizing sports entertainment in India.",
+    "wiki": "Indian_Premier_League",
+    "category": "Sports"
+  },
+  {
+    "title": "Woodstock Festival",
+    "year": 1969,
+    "description": "The Woodstock Music Festival became a symbol of the counterculture movement.",
+    "wiki": "Woodstock",
+    "category": "Culture"
+  },
+  {
+    "title": "Beatles Break Up",
+    "year": 1970,
+    "description": "The Beatles, one of the most influential bands in history, officially disbanded.",
+    "wiki": "The_Beatles",
+    "category": "Culture"
+  },
+  {
+    "title": "Sholay Release",
+    "year": 1975,
+    "description": "Bollywood film Sholay released, becoming a cultural milestone in Indian cinema.",
+    "wiki": "Sholay",
+    "category": "Culture"
+  },
+  {
+    "title": "Slumdog Millionaire Oscars",
+    "year": 2009,
+    "description": "Slumdog Millionaire won 8 Academy Awards, including Best Picture and Best Director.",
+    "wiki": "Slumdog_Millionaire",
+    "category": "Culture"
+  },
+  {
+    "title": "RRR Wins Oscar for Naatu Naatu",
+    "year": 2023,
+    "description": "The song 'Naatu Naatu' from Indian film RRR won the Oscar for Best Original Song.",
+    "wiki": "Naatu_Naatu",
+    "category": "Culture"
+  },
+  {
+    "title": "Nobel Prize Established",
+    "year": 1901,
+    "description": "The Nobel Prizes were first awarded in 1901, recognizing global contributions to science, literature, and peace.",
+    "wiki": "Nobel_Prize",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Wright Brothers First Flight",
+    "year": 1903,
+    "description": "Orville and Wilbur Wright made the first powered flight in Kitty Hawk, North Carolina.",
+    "wiki": "Wright_brothers",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Discovery of Penicillin",
+    "year": 1928,
+    "description": "Alexander Fleming discovered penicillin, the first widely used antibiotic.",
+    "wiki": "Penicillin",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "India Wins First Hockey Olympic Gold",
+    "year": 1928,
+    "description": "India won its first Olympic gold medal in hockey at the Amsterdam Games.",
+    "wiki": "India_at_the_1928_Summer_Olympics",
+    "category": "Sports"
+  },
+  {
+    "title": "First Indian in Space",
+    "year": 1984,
+    "description": "Rakesh Sharma became the first Indian astronaut to travel to space aboard Soyuz T-11.",
+    "wiki": "Rakesh_Sharma",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Nelson Mandela Released",
+    "year": 1990,
+    "description": "Nelson Mandela was released from prison after 27 years, becoming a symbol of freedom in South Africa.",
+    "wiki": "Nelson_Mandela",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Indian Constitution Adopted",
+    "year": 1949,
+    "date": "26 November 1949",
+    "description": "The Constitution of India was adopted by the Constituent Assembly.",
+    "wiki": "Constitution_of_India",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "India Becomes Nuclear Power",
+    "year": 1974,
+    "description": "India conducted its first nuclear test, code-named Smiling Buddha, at Pokhran.",
+    "wiki": "Smiling_Buddha",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Email Sent",
+    "year": 1971,
+    "description": "Ray Tomlinson sent the first email, introducing the use of the '@' symbol.",
+    "wiki": "Email",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Launch of Facebook",
+    "year": 2004,
+    "description": "Mark Zuckerberg launched Facebook, changing global social networking.",
+    "wiki": "Facebook",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Launch of YouTube",
+    "year": 2005,
+    "description": "YouTube was founded, becoming the largest online video platform.",
+    "wiki": "YouTube",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Launch of Twitter",
+    "year": 2006,
+    "description": "Twitter was founded, introducing microblogging to the world.",
+    "wiki": "Twitter",
+    "category": "Science & Tech"
+  }
+]
+[
+  {
+    "title": "Indian National Congress Founded",
+    "year": 1885,
+    "description": "The Indian National Congress was founded in Bombay, marking the start of an organized independence movement.",
+    "wiki": "Indian_National_Congress",
+    "category": "History"
+  },
+  {
+    "title": "Jallianwala Bagh Massacre",
+    "year": 1919,
+    "date": "13 April 1919",
+    "description": "British troops fired on unarmed civilians in Amritsar, killing hundreds, a turning point in India's independence struggle.",
+    "wiki": "Jallianwala_Bagh_massacre",
+    "category": "History"
+  },
+  {
+    "title": "Salt March (Dandi March)",
+    "year": 1930,
+    "description": "Mahatma Gandhi led the Salt March to protest British salt taxes, sparking civil disobedience across India.",
+    "wiki": "Salt_March",
+    "category": "History"
+  },
+  {
+    "title": "Quit India Movement",
+    "year": 1942,
+    "description": "Mahatma Gandhi launched the Quit India Movement, demanding an end to British rule.",
+    "wiki": "Quit_India_Movement",
+    "category": "History"
+  },
+  {
+    "title": "Assassination of Mahatma Gandhi",
+    "year": 1948,
+    "date": "30 January 1948",
+    "description": "Mahatma Gandhi was assassinated in New Delhi by Nathuram Godse, a Hindu nationalist.",
+    "wiki": "Assassination_of_Mahatma_Gandhi",
+    "category": "History"
+  },
+  {
+    "title": "Kargil War",
+    "year": 1999,
+    "description": "India fought a limited war with Pakistan in Kargil, Jammu and Kashmir, successfully reclaiming occupied territories.",
+    "wiki": "Kargil_War",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Indian Right to Information Act",
+    "year": 2005,
+    "description": "The RTI Act empowered Indian citizens to request information from the government, enhancing transparency.",
+    "wiki": "Right_to_Information_Act,_2005",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Demonetization in India",
+    "year": 2016,
+    "date": "8 November 2016",
+    "description": "India demonetized ₹500 and ₹1000 notes to combat corruption and black money.",
+    "wiki": "2016_Indian_banknote_demonetisation",
+    "category": "Economy"
+  },
+  {
+    "title": "Article 370 Abrogation",
+    "year": 2019,
+    "date": "5 August 2019",
+    "description": "The Government of India revoked Article 370, removing Jammu and Kashmir's special status.",
+    "wiki": "Article_370_of_the_Constitution_of_India",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Ayodhya Ram Mandir Verdict",
+    "year": 2019,
+    "description": "The Supreme Court of India ruled in favor of Ram Mandir construction at the disputed Ayodhya site.",
+    "wiki": "Ayodhya_dispute",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Battle of Plassey",
+    "year": 1757,
+    "description": "The British East India Company defeated the Nawab of Bengal, establishing British dominance in India.",
+    "wiki": "Battle_of_Plassey",
+    "category": "History"
+  },
+  {
+    "title": "Battle of Panipat (Third)",
+    "year": 1761,
+    "description": "The Marathas were defeated by Ahmad Shah Abdali in one of the largest 18th-century battles in India.",
+    "wiki": "Third_Battle_of_Panipat",
+    "category": "History"
+  },
+  {
+    "title": "American Declaration of Independence",
+    "year": 1776,
+    "date": "4 July 1776",
+    "description": "The United States declared independence from Britain, marking the birth of a new nation.",
+    "wiki": "United_States_Declaration_of_Independence",
+    "category": "History"
+  },
+  {
+    "title": "French Revolution",
+    "year": 1789,
+    "description": "The French Revolution began, overthrowing monarchy and inspiring democratic movements worldwide.",
+    "wiki": "French_Revolution",
+    "category": "History"
+  },
+  {
+    "title": "Russian Revolution",
+    "year": 1917,
+    "description": "The Russian Revolution overthrew the Tsarist regime, leading to the rise of the Soviet Union.",
+    "wiki": "Russian_Revolution",
+    "category": "History"
+  },
+  {
+    "title": "Assassination of John F. Kennedy",
+    "year": 1963,
+    "description": "U.S. President John F. Kennedy was assassinated in Dallas, Texas, shocking the world.",
+    "wiki": "Assassination_of_John_F._Kennedy",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Nelson Mandela Becomes President",
+    "year": 1994,
+    "description": "Nelson Mandela was elected as the first Black president of South Africa after the end of apartheid.",
+    "wiki": "Nelson_Mandela",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Barack Obama Elected President",
+    "year": 2008,
+    "description": "Barack Obama became the first African-American president of the United States.",
+    "wiki": "Barack_Obama",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Brexit Referendum",
+    "year": 2016,
+    "description": "The United Kingdom voted to leave the European Union in a historic referendum.",
+    "wiki": "Brexit",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "First Nobel Prize for India",
+    "year": 1913,
+    "description": "Rabindranath Tagore won the Nobel Prize in Literature for 'Gitanjali'.",
+    "wiki": "Rabindranath_Tagore",
+    "category": "Culture"
+  },
+  {
+    "title": "Discovery of DNA Structure",
+    "year": 1953,
+    "description": "James Watson and Francis Crick discovered the double helix structure of DNA.",
+    "wiki": "DNA",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Invention of Telephone",
+    "year": 1876,
+    "description": "Alexander Graham Bell patented the telephone, revolutionizing communication.",
+    "wiki": "Telephone",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Invention of Light Bulb",
+    "year": 1879,
+    "description": "Thomas Edison patented the practical electric light bulb.",
+    "wiki": "Incandescent_light_bulb",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Man in Space",
+    "year": 1961,
+    "description": "Yuri Gagarin became the first human to travel into space aboard Vostok 1.",
+    "wiki": "Yuri_Gagarin",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Indian Woman in Space",
+    "year": 1997,
+    "description": "Kalpana Chawla became the first Indian-born woman to go to space on Space Shuttle Columbia.",
+    "wiki": "Kalpana_Chawla",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Higgs Boson Discovery",
+    "year": 2012,
+    "description": "Scientists at CERN confirmed the discovery of the Higgs boson particle.",
+    "wiki": "Higgs_boson",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Indian Green Tribunal Formed",
+    "year": 2010,
+    "description": "The National Green Tribunal was established to handle environmental disputes in India.",
+    "wiki": "National_Green_Tribunal",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Right to Education Act",
+    "year": 2009,
+    "description": "The Right to Education Act made free and compulsory education a fundamental right in India.",
+    "wiki": "Right_of_Children_to_Free_and_Compulsory_Education_Act",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "India Wins Miss World - Aishwarya Rai",
+    "year": 1994,
+    "description": "Aishwarya Rai won the Miss World crown, boosting India's global cultural recognition.",
+    "wiki": "Aishwarya_Rai_Bachchan",
+    "category": "Culture"
+  },
+  {
+    "title": "India Wins Miss Universe - Sushmita Sen",
+    "year": 1994,
+    "description": "Sushmita Sen won Miss Universe, becoming the first Indian woman to win the crown.",
+    "wiki": "Sushmita_Sen",
+    "category": "Culture"
+  },
+  {
+    "title": "Miss Universe - Lara Dutta",
+    "year": 2000,
+    "description": "Lara Dutta became the second Indian to win Miss Universe in Cyprus.",
+    "wiki": "Lara_Dutta",
+    "category": "Culture"
+  },
+  {
+    "title": "MTV India Launch",
+    "year": 1996,
+    "description": "MTV India was launched, influencing pop culture and youth entertainment.",
+    "wiki": "MTV_India",
+    "category": "Culture"
+  },
+  {
+    "title": "Harry Potter First Book Released",
+    "year": 1997,
+    "description": "J.K. Rowling published 'Harry Potter and the Philosopher’s Stone', sparking a global phenomenon.",
+    "wiki": "Harry_Potter_and_the_Philosopher%27s_Stone",
+    "category": "Culture"
+  },
+  {
+    "title": "First iPhone Launch",
+    "year": 2007,
+    "description": "Apple launched the first iPhone, revolutionizing smartphones.",
+    "wiki": "iPhone_(1st_generation)",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Google Founded",
+    "year": 1998,
+    "description": "Google was founded by Larry Page and Sergey Brin, transforming internet search.",
+    "wiki": "Google",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Amazon Founded",
+    "year": 1994,
+    "description": "Jeff Bezos founded Amazon, initially an online bookstore, now a global e-commerce giant.",
+    "wiki": "Amazon_(company)",
+    "category": "Economy"
+  },
+  {
+    "title": "Tesla Founded",
+    "year": 2003,
+    "description": "Tesla Motors was founded, pioneering electric vehicle innovation.",
+    "wiki": "Tesla,_Inc.",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Heart Transplant",
+    "year": 1967,
+    "description": "Dr. Christiaan Barnard performed the world’s first human heart transplant in South Africa.",
+    "wiki": "Heart_transplant",
+    "category": "Health"
+  },
+  {
+    "title": "Smallpox Eradication",
+    "year": 1980,
+    "description": "The World Health Organization declared smallpox eradicated globally.",
+    "wiki": "Smallpox",
+    "category": "Health"
+  },
+  {
+    "title": "Indian Space Association Founded",
+    "year": 2021,
+    "description": "India launched a new industry body to promote private space activities.",
+    "wiki": "Indian_Space_Association",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "UNICEF Founded",
+    "year": 1946,
+    "description": "UNICEF was founded to provide humanitarian aid to children worldwide.",
+    "wiki": "UNICEF",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "World Trade Organization Established",
+    "year": 1995,
+    "description": "The WTO was established to regulate global trade.",
+    "wiki": "World_Trade_Organization",
+    "category": "Economy"
+  },
+  {
+    "title": "Euro Currency Introduced",
+    "year": 1999,
+    "description": "The Euro was introduced as a common currency in European nations.",
+    "wiki": "Euro",
+    "category": "Economy"
+  },
+  {
+    "title": "Indian Rupee Symbol Adopted",
+    "year": 2010,
+    "description": "India adopted '₹' as the official currency symbol of the rupee.",
+    "wiki": "Indian_rupee_sign",
+    "category": "Economy"
+  }
+]
+[
+  {
+    "title": "Battle of Buxar",
+    "year": 1764,
+    "description": "The British East India Company defeated the combined forces of Mughal Emperor Shah Alam II, Shuja-ud-Daula, and Mir Qasim, consolidating British power in India.",
+    "wiki": "Battle_of_Buxar",
+    "category": "History"
+  },
+  {
+    "title": "Indian Rebellion of 1857",
+    "year": 1857,
+    "description": "The first war of Indian independence against British rule, sparked by grievances in the East India Company's army.",
+    "wiki": "Indian_Rebellion_of_1857",
+    "category": "History"
+  },
+  {
+    "title": "Formation of Indian Railways",
+    "year": 1853,
+    "description": "India’s first passenger train ran between Bombay and Thane, marking the birth of Indian Railways.",
+    "wiki": "Indian_Railways",
+    "category": "Economy"
+  },
+  {
+    "title": "Formation of Indian Air Force",
+    "year": 1932,
+    "description": "The Indian Air Force was officially established under the British Empire.",
+    "wiki": "Indian_Air_Force",
+    "category": "History"
+  },
+  {
+    "title": "First Indian General Elections",
+    "year": 1951,
+    "description": "India conducted its first general elections with universal adult franchise, the largest democratic exercise at the time.",
+    "wiki": "1951_Indian_general_election",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Indo-China War",
+    "year": 1962,
+    "description": "India and China fought a brief but intense war over disputed Himalayan borders.",
+    "wiki": "Sino-Indian_War",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Indo-Pakistan War of 1971",
+    "year": 1971,
+    "description": "India defeated Pakistan, leading to the creation of Bangladesh.",
+    "wiki": "Indo-Pakistani_War_of_1971",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Operation Blue Star",
+    "year": 1984,
+    "description": "An Indian military operation to remove militants from the Golden Temple in Amritsar.",
+    "wiki": "Operation_Blue_Star",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Bhopal Gas Tragedy",
+    "year": 1984,
+    "description": "One of the world’s worst industrial disasters occurred in Bhopal due to a gas leak from Union Carbide India Limited.",
+    "wiki": "Bhopal_disaster",
+    "category": "Health"
+  },
+  {
+    "title": "Indian IT Boom",
+    "year": 1990,
+    "description": "India’s IT industry began its rapid growth, turning cities like Bangalore into global tech hubs.",
+    "wiki": "Information_technology_in_India",
+    "category": "Economy"
+  },
+  {
+    "title": "GST Implementation in India",
+    "year": 2017,
+    "description": "India implemented the Goods and Services Tax, replacing multiple indirect taxes.",
+    "wiki": "Goods_and_Services_Tax_(India)",
+    "category": "Economy"
+  },
+  {
+    "title": "US Civil Rights Act",
+    "year": 1964,
+    "description": "The Civil Rights Act outlawed discrimination based on race, color, religion, sex, or national origin.",
+    "wiki": "Civil_Rights_Act_of_1964",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "World War I Ends",
+    "year": 1918,
+    "description": "World War I ended with the signing of the Armistice on 11 November 1918.",
+    "wiki": "Armistice_of_11_November_1918",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Hiroshima Atomic Bombing",
+    "year": 1945,
+    "date": "6 August 1945",
+    "description": "The U.S. dropped an atomic bomb on Hiroshima, Japan, during World War II.",
+    "wiki": "Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "category": "War & Politics"
+  },
+  {
+    "title": "NATO Formation",
+    "year": 1949,
+    "description": "The North Atlantic Treaty Organization was formed as a military alliance during the Cold War.",
+    "wiki": "NATO",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Vietnam War Ends",
+    "year": 1975,
+    "description": "The Vietnam War ended with the fall of Saigon and reunification of Vietnam under communist control.",
+    "wiki": "Vietnam_War",
+    "category": "War & Politics"
+  },
+  {
+    "title": "September 11 Attacks",
+    "year": 2001,
+    "description": "Terrorist attacks in the United States killed nearly 3,000 people and reshaped global security policies.",
+    "wiki": "September_11_attacks",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Paris Climate Agreement",
+    "year": 2015,
+    "description": "Global leaders signed the Paris Agreement to address climate change.",
+    "wiki": "Paris_Agreement",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "First Satellite - Sputnik 1",
+    "year": 1957,
+    "description": "The Soviet Union launched Sputnik 1, the world’s first artificial satellite.",
+    "wiki": "Sputnik_1",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Man on Mount Everest",
+    "year": 1953,
+    "description": "Edmund Hillary and Tenzing Norgay became the first climbers confirmed to have reached the summit of Mount Everest.",
+    "wiki": "1953_British_Mount_Everest_expedition",
+    "category": "Sports"
+  },
+  {
+    "title": "First Test Match in Cricket",
+    "year": 1877,
+    "description": "The first official cricket Test match was played between England and Australia in Melbourne.",
+    "wiki": "History_of_Test_cricket",
+    "category": "Sports"
+  },
+  {
+    "title": "First Modern Olympics",
+    "year": 1896,
+    "description": "The first modern Olympic Games were held in Athens, Greece.",
+    "wiki": "1896_Summer_Olympics",
+    "category": "Sports"
+  },
+  {
+    "title": "Pele Wins FIFA World Cup",
+    "year": 1958,
+    "description": "Brazilian footballer Pelé won his first FIFA World Cup, becoming a global icon.",
+    "wiki": "Pelé",
+    "category": "Sports"
+  },
+  {
+    "title": "Diego Maradona's Hand of God",
+    "year": 1986,
+    "description": "Diego Maradona scored the infamous 'Hand of God' goal during the FIFA World Cup quarterfinal.",
+    "wiki": "Hand_of_God_goal",
+    "category": "Sports"
+  },
+  {
+    "title": "Sachin Tendulkar's 100th Century",
+    "year": 2012,
+    "description": "Sachin Tendulkar scored his 100th international century, a world record in cricket.",
+    "wiki": "Sachin_Tendulkar",
+    "category": "Sports"
+  },
+  {
+    "title": "Roger Federer Wins 20 Grand Slams",
+    "year": 2018,
+    "description": "Swiss tennis legend Roger Federer became the first male player to win 20 Grand Slam titles.",
+    "wiki": "Roger_Federer",
+    "category": "Sports"
+  },
+  {
+    "title": "Michael Phelps 8 Gold Medals",
+    "year": 2008,
+    "description": "Swimmer Michael Phelps won 8 gold medals at the Beijing Olympics, a record for a single Games.",
+    "wiki": "Michael_Phelps",
+    "category": "Sports"
+  },
+  {
+    "title": "Usain Bolt World Record",
+    "year": 2009,
+    "description": "Usain Bolt set a 100m world record of 9.58 seconds at the World Championships in Berlin.",
+    "wiki": "Usain_Bolt",
+    "category": "Sports"
+  },
+  {
+    "title": "Nirvana MTV Unplugged",
+    "year": 1993,
+    "description": "Nirvana's MTV Unplugged performance became one of the most iconic moments in rock history.",
+    "wiki": "MTV_Unplugged_in_New_York",
+    "category": "Culture"
+  },
+  {
+    "title": "Michael Jackson's Thriller Release",
+    "year": 1982,
+    "description": "Michael Jackson released 'Thriller', the best-selling album of all time.",
+    "wiki": "Thriller_(album)",
+    "category": "Culture"
+  },
+  {
+    "title": "Titanic Film Release",
+    "year": 1997,
+    "description": "James Cameron's 'Titanic' became one of the highest-grossing films in history.",
+    "wiki": "Titanic_(1997_film)",
+    "category": "Culture"
+  },
+  {
+    "title": "Avengers: Endgame Release",
+    "year": 2019,
+    "description": "Marvel's 'Avengers: Endgame' became the highest-grossing film of all time until 2021.",
+    "wiki": "Avengers:_Endgame",
+    "category": "Culture"
+  },
+  {
+    "title": "Netflix Streaming Launch",
+    "year": 2007,
+    "description": "Netflix launched its streaming service, transforming global entertainment.",
+    "wiki": "Netflix",
+    "category": "Culture"
+  },
+  {
+    "title": "Wikipedia Launch",
+    "year": 2001,
+    "description": "Wikipedia was launched as a free, collaborative online encyclopedia.",
+    "wiki": "Wikipedia",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Instagram Launch",
+    "year": 2010,
+    "description": "Instagram was launched as a photo-sharing app, later acquired by Facebook.",
+    "wiki": "Instagram",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "WhatsApp Launch",
+    "year": 2009,
+    "description": "WhatsApp was founded, later becoming the world’s most popular messaging app.",
+    "wiki": "WhatsApp",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "TikTok Launch",
+    "year": 2016,
+    "description": "TikTok was launched in China as Douyin and later became a global sensation.",
+    "wiki": "TikTok",
+    "category": "Culture"
+  },
+  {
+    "title": "SpaceX Falcon Heavy Launch",
+    "year": 2018,
+    "description": "SpaceX launched Falcon Heavy, the most powerful operational rocket in the world.",
+    "wiki": "Falcon_Heavy",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "James Webb Space Telescope Launch",
+    "year": 2021,
+    "description": "NASA launched the James Webb Space Telescope, the most powerful space telescope ever built.",
+    "wiki": "James_Webb_Space_Telescope",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "India’s Chandrayaan-2",
+    "year": 2019,
+    "description": "Chandrayaan-2 attempted a soft landing on the Moon, with orbiter successfully operating in lunar orbit.",
+    "wiki": "Chandrayaan-2",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "ISRO PSLV-C37 Record",
+    "year": 2017,
+    "description": "India launched 104 satellites in a single mission using PSLV-C37, a world record.",
+    "wiki": "PSLV-C37",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "India’s G20 Presidency",
+    "year": 2023,
+    "description": "India hosted the G20 Summit for the first time in New Delhi.",
+    "wiki": "2023_G20_New_Delhi_summit",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "World Health Organization Founded",
+    "year": 1948,
+    "description": "The World Health Organization (WHO) was founded to promote global public health.",
+    "wiki": "World_Health_Organization",
+    "category": "Health"
+  },
+  {
+    "title": "Polio Eradicated in India",
+    "year": 2014,
+    "description": "India was declared polio-free by the World Health Organization.",
+    "wiki": "Polio_eradication_in_India",
+    "category": "Health"
+  },
+  {
+    "title": "Indian Chandrayaan-4 (Planned)",
+    "year": 2026,
+    "description": "ISRO’s planned Chandrayaan-4 mission aims to explore new areas of the Moon.",
+    "wiki": "Chandrayaan-4",
+    "category": "Science & Tech"
+  }
+]
+[
+  {
+    "title": "Battle of Waterloo",
+    "year": 1815,
+    "description": "Napoleon Bonaparte was defeated at the Battle of Waterloo, ending his rule and the Napoleonic Wars.",
+    "wiki": "Battle_of_Waterloo",
+    "category": "History"
+  },
+  {
+    "title": "American Civil War Ends",
+    "year": 1865,
+    "description": "The American Civil War ended with the surrender of Confederate forces, leading to the abolition of slavery.",
+    "wiki": "American_Civil_War",
+    "category": "History"
+  },
+  {
+    "title": "Assassination of Abraham Lincoln",
+    "year": 1865,
+    "description": "U.S. President Abraham Lincoln was assassinated shortly after the Civil War ended.",
+    "wiki": "Assassination_of_Abraham_Lincoln",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Indian Independence Act",
+    "year": 1947,
+    "description": "The British Parliament passed the Indian Independence Act, granting independence to India and Pakistan.",
+    "wiki": "Indian_Independence_Act_1947",
+    "category": "History"
+  },
+  {
+    "title": "Berlin Airlift",
+    "year": 1948,
+    "description": "Western allies airlifted supplies to West Berlin during the Soviet blockade.",
+    "wiki": "Berlin_Airlift",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Korean War",
+    "year": 1950,
+    "description": "The Korean War began between North Korea and South Korea, with U.S. and Chinese involvement.",
+    "wiki": "Korean_War",
+    "category": "War & Politics"
+  },
+  {
+    "title": "Assassination of Martin Luther King Jr.",
+    "year": 1968,
+    "description": "Civil rights leader Martin Luther King Jr. was assassinated in Memphis, Tennessee.",
+    "wiki": "Assassination_of_Martin_Luther_King_Jr.",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Moon Rover Pragyan",
+    "year": 2023,
+    "description": "ISRO’s Pragyan rover successfully operated on the lunar surface during Chandrayaan-3 mission.",
+    "wiki": "Chandrayaan-3",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Google Acquires YouTube",
+    "year": 2006,
+    "description": "Google acquired YouTube for $1.65 billion, expanding into online video.",
+    "wiki": "Acquisition_of_YouTube_by_Google",
+    "category": "Economy"
+  },
+  {
+    "title": "First Artificial Heart Implant",
+    "year": 1982,
+    "description": "Dr. Barney Clark became the first person to receive a permanent artificial heart.",
+    "wiki": "Artificial_heart",
+    "category": "Health"
+  },
+  {
+    "title": "Indian Chandrayaan-Next (Planned)",
+    "year": 2028,
+    "description": "Future ISRO lunar exploration mission under development.",
+    "wiki": "Chandrayaan",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Email in India",
+    "year": 1986,
+    "description": "India sent its first email from IIT Bombay to the U.S., marking the start of internet communication in India.",
+    "wiki": "Internet_in_India",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Infosys Founded",
+    "year": 1981,
+    "description": "Infosys was founded in Pune, later becoming a global IT giant from India.",
+    "wiki": "Infosys",
+    "category": "Economy"
+  },
+  {
+    "title": "Wipro Enters IT Sector",
+    "year": 1980,
+    "description": "Wipro transformed from a consumer goods company into a major IT services provider.",
+    "wiki": "Wipro",
+    "category": "Economy"
+  },
+  {
+    "title": "Microsoft Founded",
+    "year": 1975,
+    "description": "Bill Gates and Paul Allen founded Microsoft, which became the dominant software company worldwide.",
+    "wiki": "Microsoft",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Apple Founded",
+    "year": 1976,
+    "description": "Steve Jobs, Steve Wozniak, and Ronald Wayne founded Apple in California.",
+    "wiki": "Apple_Inc.",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Personal Computer IBM PC",
+    "year": 1981,
+    "description": "IBM introduced its first personal computer, changing household and office computing.",
+    "wiki": "IBM_Personal_Computer",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Windows 95 Release",
+    "year": 1995,
+    "description": "Microsoft released Windows 95, revolutionizing the PC operating system market.",
+    "wiki": "Windows_95",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Linux Kernel Released",
+    "year": 1991,
+    "description": "Linus Torvalds released the first version of the Linux kernel, a foundation for open-source systems.",
+    "wiki": "Linux_kernel",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "World Wide Web Public Release",
+    "year": 1993,
+    "description": "The World Wide Web was released to the public, making internet access universal.",
+    "wiki": "World_Wide_Web",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "Google Chrome Launch",
+    "year": 2008,
+    "description": "Google launched its Chrome browser, which became the most widely used worldwide.",
+    "wiki": "Google_Chrome",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "India’s Chandrayaan-5 (Proposed)",
+    "year": 2030,
+    "description": "Proposed ISRO mission for further lunar exploration.",
+    "wiki": "Chandrayaan",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "India Wins Hockey Gold 2021",
+    "year": 2021,
+    "description": "Indian men’s hockey team won bronze at Tokyo Olympics, ending a 41-year medal drought.",
+    "wiki": "India_men%27s_national_field_hockey_team",
+    "category": "Sports"
+  },
+  {
+    "title": "Lionel Messi Ballon d’Or Record",
+    "year": 2021,
+    "description": "Lionel Messi won his 7th Ballon d’Or, the most in football history.",
+    "wiki": "Lionel_Messi",
+    "category": "Sports"
+  },
+  {
+    "title": "Cristiano Ronaldo 800 Goals",
+    "year": 2021,
+    "description": "Cristiano Ronaldo became the first footballer to score 800 official career goals.",
+    "wiki": "Cristiano_Ronaldo",
+    "category": "Sports"
+  },
+  {
+    "title": "First Woman Prime Minister of India",
+    "year": 1966,
+    "description": "Indira Gandhi became India’s first and only woman Prime Minister.",
+    "wiki": "Indira_Gandhi",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "First Dalit President of India",
+    "year": 1997,
+    "description": "K.R. Narayanan became the first Dalit President of India.",
+    "wiki": "K._R._Narayanan",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "First Tribal Woman President of India",
+    "year": 2022,
+    "description": "Droupadi Murmu became India’s first tribal woman President.",
+    "wiki": "Droupadi_Murmu",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Indian Independence Movement - Swadeshi",
+    "year": 1905,
+    "description": "The Swadeshi Movement encouraged Indians to boycott British goods and promote local industry.",
+    "wiki": "Swadeshi_movement",
+    "category": "History"
+  },
+  {
+    "title": "Indian Railways Electrification",
+    "year": 1925,
+    "description": "India introduced electric train services, beginning with Bombay VT to Kurla.",
+    "wiki": "Railway_electrification_in_India",
+    "category": "Economy"
+  },
+  {
+    "title": "Digital India Campaign",
+    "year": 2015,
+    "description": "Government of India launched Digital India to promote online governance and digital infrastructure.",
+    "wiki": "Digital_India",
+    "category": "Economy"
+  },
+  {
+    "title": "Make in India Campaign",
+    "year": 2014,
+    "description": "Launched to encourage manufacturing and investment in India.",
+    "wiki": "Make_in_India",
+    "category": "Economy"
+  },
+  {
+    "title": "Startup India Initiative",
+    "year": 2016,
+    "description": "The Startup India initiative was launched to promote entrepreneurship and innovation.",
+    "wiki": "Startup_India",
+    "category": "Economy"
+  },
+  {
+    "title": "India Joins BRICS",
+    "year": 2009,
+    "description": "India became a founding member of BRICS, a global economic group of emerging nations.",
+    "wiki": "BRICS",
+    "category": "Economy"
+  },
+  {
+    "title": "World Bank Founded",
+    "year": 1944,
+    "description": "The World Bank was created to finance post-WWII reconstruction and development.",
+    "wiki": "World_Bank",
+    "category": "Economy"
+  },
+  {
+    "title": "International Monetary Fund Founded",
+    "year": 1944,
+    "description": "The IMF was established to promote financial stability and global monetary cooperation.",
+    "wiki": "International_Monetary_Fund",
+    "category": "Economy"
+  },
+  {
+    "title": "Indian Chandrayaan-Next Mars Mission",
+    "year": 2035,
+    "description": "ISRO’s future planned Mars mission for deeper exploration.",
+    "wiki": "Mars_Orbiter_Mission",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Woman to Climb Everest",
+    "year": 1975,
+    "description": "Junko Tabei from Japan became the first woman to summit Mount Everest.",
+    "wiki": "Junko_Tabei",
+    "category": "Sports"
+  },
+  {
+    "title": "India Wins 2023 Asian Games Gold",
+    "year": 2023,
+    "description": "India achieved its highest-ever medal tally at the Asian Games, including multiple gold medals.",
+    "wiki": "India_at_the_2022_Asian_Games",
+    "category": "Sports"
+  },
+  {
+    "title": "First Indian Nobel Peace Prize",
+    "year": 1979,
+    "description": "Mother Teresa won the Nobel Peace Prize for her humanitarian work in Kolkata.",
+    "wiki": "Mother_Teresa",
+    "category": "Culture"
+  },
+  {
+    "title": "Malala Wins Nobel Peace Prize",
+    "year": 2014,
+    "description": "Pakistani activist Malala Yousafzai won the Nobel Peace Prize for education rights.",
+    "wiki": "Malala_Yousafzai",
+    "category": "Law & Governance"
+  },
+  {
+    "title": "Greta Thunberg Climate Activism",
+    "year": 2018,
+    "description": "Greta Thunberg began a global youth movement for climate change awareness.",
+    "wiki": "Greta_Thunberg",
+    "category": "Culture"
+  },
+  {
+    "title": "India Hosts Commonwealth Games",
+    "year": 2010,
+    "description": "Delhi hosted the Commonwealth Games, India’s largest-ever sporting event.",
+    "wiki": "2010_Commonwealth_Games",
+    "category": "Sports"
+  },
+  {
+    "title": "Launch of Chandrayaan-Next Venus Mission (Planned)",
+    "year": 2031,
+    "description": "ISRO’s upcoming Venus mission aims to study the planet’s atmosphere and surface.",
+    "wiki": "Shukrayaan-1",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Indian Nobel in Physics",
+    "year": 1930,
+    "description": "C.V. Raman won the Nobel Prize in Physics for the discovery of the Raman effect.",
+    "wiki": "C._V._Raman",
+    "category": "Science & Tech"
+  },
+  {
+    "title": "First Indian Woman Nobel Laureate",
+    "year": 2014,
+    "description": "Kailash Satyarthi and Malala Yousafzai jointly won the Nobel Peace Prize, with Satyarthi recognized for child rights activism.",
+    "wiki": "Kailash_Satyarthi",
+    "category": "Law & Governance"
+  }
+]
